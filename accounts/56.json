@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "amazing-chalice-332107",
+  "private_key_id": "90c66f9b4e21821edb2beaa1545b591c872e68a3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9ehRBCRgQth/X\n8d2teTI/Qq3veeEMxe+IkVZX5T3pC1CfPxSqwDg0ukmPix3OAMHJZfpuXXZo5udn\nytcp0CcJANG8IWSmy+52zO2mZzP0iPMP2jHQW5dESsJY6sZmmoFLqlCgddMTIeHo\n+DT86QuEV1slNqJRIs9wboktHYgOagZal30V3m6YQyNiZSJZK75KuZSIgs878obm\n9XGJKYHBOdj6TWrKwjR+KgMPwMXKAv2HTOOOEnIvlgNesurYTsMGQozWRkg9wJb9\nPOXD5sYXKWdW1G6UybeXZHVQtuw2unSBsEBtfROvY9oZ41SflGvsufN8Zlah8660\nC8u5WTJVAgMBAAECggEAPYm5rEms1DiibPsz2RSEukEIxr9Z1VEv87XoShG9IsQ3\nAhF1v+NAHffmzkULgA2E4slJJbEbNQTRYUdizES7eNQYSja6PuX65AC4qpPYLvKP\nprVh+l7U6SwypLhTiZ1iotWE7Ch4Tj1x5r0+UGnMAMZyZsqwuxNINibgTJPLzYoX\ntqMkvTtb4TViTWRqjgBR/JMCCA4VOZawMholLEzROQ677PIDey/6xFW61UFUjXj4\ne1PZzjq8f1PPnw/HWV3ixz5YhhTACbMP37RlzD+wU1tQQqjZJihxpiOlaG/VpUBd\n7zywkLB1b1n0AJN+ORBxeJmMxrp3oB2BowrqDOEX3QKBgQD437y0bI2q9/IdOvaf\nuqYyVn/KVAXCv/4nrmHzKx7F1cPVgE4ynqa+iaiRVRFFjjIJvfroFx7OnlecWqjH\nkl3JezqPFUD+GB8RdkIdAA2FkjXm1zWa9gA7QbwVvyCDzEwNTM+NUSUmJxZlhnFi\nK4d7kFEkuwU7Bn4szffrcP7vvwKBgQDC5vUPEHvqpdiKewMuAKQ3YTFT0e+RoTpi\nmmnpgC/55c8HB0gisHADS6lAn0YDIOrAVIsuqeeXRlWXcGNmKsHEHdKCQ9yfw3mx\nRe7Y36+VLbjNMlT+YIbhj5n4WY/Kubb5LIwgXJe+MgnYkGuZX3CaL2pLY/LftF2p\nDYhMe3Ri6wKBgQDN4RCTVSXQ5HJm2etBcb+g7suiTeXCGN+gZfLjna1ETbVGfnCy\nEWqxPuGy8GNsXdhpFL9mlhHHLVgeoST0i9GIJqfny9ZLHRs+b8z7fpqw/6YVg7z1\np0HDw3pbpxO31B6p9fvQ1OrdaAJwFErhwk6+2kE2GHyYOqPQXscT/xL2swKBgHkB\njapxsI3Js/yeTSYVjd84P7jrwZKoCCjJ9/HZ/W9op7WUZsvqwVC6e/W8LWqp2DXb\nB6LMKBY6u89PHteCulS5s0XfPi4O3hIa+iS6FDhJb9AubKiWY4fNcWnIqUbTMO/Z\nIZLCChAy3vwPBk7t+2ovAA6YmmUbhX79AN+DUopLAoGAONktVaZh8RUYzaZOhs54\ndZuoiaE8Q4j42/cnD9S5rFjK6KmSCaWwBg4S3OhL8pDRbGVq3gOHZxD+97chYtyd\n22RRBZ20WG2vIQFf6wA1n+r/qYxDzyUsUTarsl/ZY5j6w3UoPWC/iprsHj3RPbDg\nEXfh/QTZFAN4UBnHXCcjKAQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-owuhql4-yyu2awhayhmrd9ryd0@amazing-chalice-332107.iam.gserviceaccount.com",
+  "client_id": "102394944531398357279",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-owuhql4-yyu2awhayhmrd9ryd0%40amazing-chalice-332107.iam.gserviceaccount.com"
+}
